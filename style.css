@@ -1,0 +1,112 @@
+.box{
+    width: 80%;
+    height: 650px;
+    border: 4px solid black;
+    background-color:azure;
+    border-radius: 4px;
+    margin-left: 145px;
+    position: absolute;
+}
+
+.tittle{
+    margin-top: 24%;
+    margin-left: 41%;
+    font-style:normal;
+}
+
+.button{
+    background-color:lightblue;
+    margin-left: 47.6%;
+    border-radius: 5px;
+    font-style:initial;
+    cursor: pointer;
+    padding: 15px 32px;
+}
+
+.btncancel{
+    background-color:lightblue;
+    position: absolute;
+    left: -500px;
+    margin-top:1% ;
+    padding: 15px 32px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.images img {
+    width: 150px;
+    height: 150px;
+    margin: 0 20px;
+}
+
+.container {
+    width: 80%;
+    height: 650px;
+    border: 4px solid black;
+    background-color:azure;
+    border-radius: 4px;
+    margin-left: 145px;
+    position: absolute;
+    border-radius: 5px; 
+    text-align: center;
+}
+
+.box1{
+    justify-content: center;
+    top: 16%;
+    width: 50%;
+    height: 450px;
+    border: 1px solid black;
+    background-color:azure;
+    border-radius: 4px;
+    margin-left: 300px;
+    position: absolute;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.game {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.player {
+    margin: 0 20px;
+}
+
+.choice-image {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.play-area {
+    margin-left: -16%;
+    font-style: inherit;
+}
+
+button {
+    background-color:lightblue;
+    margin-left: 45%;
+    border-radius: 5px;
+    font-style:initial;
+    cursor: pointer;
+    padding: 15px 32px;
+}
+
+
+#gameResult {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
